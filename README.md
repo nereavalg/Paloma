@@ -10,9 +10,9 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :woman: Irene Mesa Castro
+- :woman: Melina Gállego Ruano
+- :woman: Nerea Valderas Guirado
 
 
 Proyecto (código): 
@@ -20,8 +20,8 @@ URL (link) del proyecto en Github:
 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
-- [ ] Reality/tribus urbanas  
+- [ ] FictionCiberpunk  
+- [x] Reality/tribus urbanas  
 - [ ] Comic
 
 

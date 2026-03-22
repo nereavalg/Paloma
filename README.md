@@ -75,7 +75,7 @@ Puedes entrar al interactivo del personaje aquí: [Interactivo Paloma](https://a
 
 
 ### Conclusiones/Valoración del equipo
-
+La valoración de esta práctica es muy positiva debido a que nos ha ayudado a fomentar nuestra creatividad y a desarrollar la habilidad de estructurar una historia a través de un conjunto de ideas. Materializar el abejaruco ha sido más sencillo ya que hemos buscado fotografías reales; sin embargo, para materializar a Paloma hemos necesitado la ayuda de la inteligencia artificial, a la que hemos ido dando detalles hasta que nos ha proporcionado la imagen de nuestra protagonista tal y como la habíamos imaginado. 
 
 
 

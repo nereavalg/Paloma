@@ -57,7 +57,7 @@ NOTA: La ficha del personaje se puede hacer con la pizarra online https://excali
 ![](https://github.com/nereavalg/Paloma/blob/2356a8639712a8f187cf0402ba3badc838e52630/Paloma%20personaje.png) 
 
 ## <h4> Abejaruco:</h4>
-![]() 
+![](https://github.com/nereavalg/Paloma/blob/ce0db279d0a35337424387d722a5eca1c4906c52/abejaruco.jpg) 
 
 - Interactivo
 

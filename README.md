@@ -27,6 +27,7 @@ Tipo/Género:
 
 
 ## Resumen
+Paloma es una estudiante que sueña con viajar por el mundo libremente como haría un pájaro. 
 
 
 ### Personaje
@@ -41,14 +42,15 @@ NOTA: La ficha del personaje se puede hacer con la pizarra online https://excali
 * hay que descargarla al ordenado y usarla en excalidraw con la opción archivo > Abrir
 
 ### Historia
-
+Paloma es una estudiante universitaria que, a pesar de ser aplicada, a menudo encuentra sus clases aburridas e insignificantes. No soporta estar sentada en una silla durante horas escuchando un sermón; ella sueña con viajar por el mundo sin parar. Todas las mañanas se sienta en la mesa al lado de la ventana y se distrae viendo la vida pasar. 
+Un día, a través de la ventana, ve un abejaruco que llama su atención. Ella quisiera ser tan libre como él y entonces comienza a soñar despierta con cómo sería su vida si fuera un pájaro y pudiera volar donde quisiese. ¿A qué lugares iría? ¿Dónde dormiría? ¿Qué nuevas comidas probaría? 
 
 ### TagLine
 ¿Dónde viajarías si fueras un pájaro?
 
 
 ### Conflicto 
-
+Paloma desea la libertad y la aventura pero la realidad es que vive atrapada en la monotonía de una estudiante de universidad. 
 
 ### Productos
 

@@ -69,7 +69,7 @@ Puedes entrar al interactivo del personaje aquí: [Interactivo Paloma](https://a
 
 - [Chatbot Paloma](https://character.ai/chat/zAonG4KkIeTw5I6bIBAO2FNaMBTdqW2uegIfYjnEmRM) 
 
-
+- [Enlace a Renpy Paloma](https://nereavalg.itch.io/paloma)
 
 
 ### Conclusiones/Valoración del equipo
